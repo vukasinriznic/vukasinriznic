@@ -44,7 +44,7 @@ Full-Stack Developer with hands-on experience building web applications using **
 - Clean, responsive one-page landing site with animated buttons and polished UI design.
 - 🔗 [Live Site](https://tealfather.webflow.io)
 
-### 🌍 Magazine Website Clone
+### 🌍 Magazine Website
 *(HTML · CSS · JavaScript)*
 - Pixel-perfect front-end clone of a professional magazine website built with pure HTML, CSS, and vanilla JavaScript.
 - Demonstrates advanced CSS Grid, Flexbox, and DOM manipulation without any frameworks.
@@ -69,4 +69,4 @@ Full-Stack Developer with hands-on experience building web applications using **
 - Open to junior on-site and remote opportunities
 - Enthusiastic about full-stack development, clean UI design, and building practical, real-world applications
 
-> *"I enjoy turning ideas into functional web applications — from database design to the final user interface."*
+> *"I enjoy turning ideas into functional web applications - from database design to the final user interface."*
