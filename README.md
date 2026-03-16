@@ -8,7 +8,7 @@
 
 ## 🌟 Summary
 
-Full-Stack Developer with hands-on experience building web applications using **Laravel**, **React**, and **Webflow**. Skilled in both front-end and back-end development, with a strong focus on clean UI, role-based systems, and delivering functional, user-friendly solutions. Currently finishing my degree and open to junior opportunities.
+Full-Stack Developer with hands-on experience building web applications using **Laravel**, **React**, **Phyton**, **PHP** and **Webflow**. Skilled in both front-end and back-end development, with a strong focus on clean UI, role-based systems, and delivering functional, user-friendly solutions. Currently finishing my degree and open to junior opportunities.
 
 ---
 
@@ -16,7 +16,7 @@ Full-Stack Developer with hands-on experience building web applications using **
 
 **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Webflow
 
-**Backend / Database:** PHP, Laravel, MySQL (phpMyAdmin / XAMPP)
+**Backend / Database:** PHP, Laravel, Phyton, MySQL (phpMyAdmin / XAMPP)
 
 **Other:** REST APIs, Laravel Breeze (Authentication), Git / GitHub, Blade Templates
 
