@@ -8,23 +8,36 @@
 
 ## 🌟 Summary
 
-Full-Stack Developer with hands-on experience building web applications using **Laravel**, **React**, **Phyton**, **PHP** and **Webflow**. Skilled in both front-end and back-end development, with a strong focus on clean UI, role-based systems, and delivering functional, user-friendly solutions. Currently finishing my degree and open to junior opportunities.
+Full-Stack Developer with hands-on experience building web applications using **Laravel**, **React**, **Node.js** and **Webflow**. Skilled in both front-end and back-end development, with a strong focus on clean UI, role-based systems, and delivering functional, user-friendly solutions. Currently finishing my degree and open to junior opportunities.
 
 ---
 
 ## 🛠 Technical Skills
 
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Webflow
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Webflow
 
-**Backend / Database:** PHP, Laravel, Phyton, MySQL (phpMyAdmin / XAMPP)
+**Backend:** PHP, Laravel, Node.js, Express.js, Python
 
-**Other:** REST APIs, Laravel Breeze (Authentication), Git / GitHub, Blade Templates
+**Database:** MySQL (phpMyAdmin / XAMPP), PostgreSQL, Prisma ORM
 
-**Tools:** VS Code, phpMyAdmin, Figma, npm, Composer
+**Auth & Security:** JWT, bcrypt, Laravel Breeze
+
+**Other:** REST APIs, Git / GitHub, Blade Templates
+
+**Tools:** VS Code, Figma, npm, Composer, Postman
 
 ---
 
 ## 🚀 Projects
+
+### 🍽️ [MealMuse](https://github.com/vukasinriznic/recipe-app) — Personal Meal Planning Companion
+*(React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Spoonacular API)*
+- Full-stack meal planning application with recipe search, favorites, weekly meal planner and auto-generated shopping lists.
+- Secure JWT authentication — each user has their own private data.
+- Recipe search powered by **Spoonacular API** with filters for cuisine and diet type.
+- Visual weekly calendar for planning Breakfast, Lunch and Dinner for each day.
+- Auto-generated shopping list with ingredient merging and quantity calculation.
+- Modern **Glassmorphism UI** built with React, TypeScript and Tailwind CSS.
 
 ### 🔧 [TahoServis](https://github.com/vukasinriznic/tahoservis) — Tachograph Service Management App
 *(Laravel · PHP · MySQL · Blade)*
