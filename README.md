@@ -57,7 +57,7 @@ Full-Stack Developer with hands-on experience building web applications using **
 - Clean, responsive one-page landing site with animated buttons and polished UI design.
 - 🔗 [Live Site](https://tealfather.webflow.io)
 
-### 🌍 [TealFather](https://github.com/vukasinriznic/nationalgeographic) — Magazine Website
+### 🌍 [NationalGeographic](https://github.com/vukasinriznic/nationalgeographic) — Magazine Website
 *(HTML · CSS · JavaScript)*
 - Pixel-perfect front-end clone of a professional magazine website built with pure HTML, CSS, and vanilla JavaScript.
 - Demonstrates advanced CSS Grid, Flexbox, and DOM manipulation without any frameworks.
