@@ -14,7 +14,7 @@ Full-Stack Developer with hands-on experience building web applications using **
 
 ## 🛠 Technical Skills
 
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Webflow
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Webflow
 
 **Backend:** PHP, Laravel, Node.js, Express.js, Python
 
