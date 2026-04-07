@@ -18,6 +18,14 @@ Open to junior opportunities — remote or on-site.
 
 ---
 
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vukasinriznic&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vukasinriznic&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=ffffff)
+
+---
+
 ## Tech Stack
 
 **Frontend**
