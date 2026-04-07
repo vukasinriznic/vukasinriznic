@@ -1,85 +1,98 @@
-# Hi, I'm Vukašin Riznić! 👋
+<div align="center">
 
-💻 **Full-Stack Developer** | Passionate about building clean, modern, and functional web applications.
+# Vukašin Riznić
 
-📍 Belgrade, Serbia &nbsp;|&nbsp; 📧 **riznicvukasin@gmail.com** &nbsp;|&nbsp; 📞 +381 655339481 &nbsp;|&nbsp; 🌐 **[GitHub](https://github.com/vukasinriznic)**
+**Software Engineer · Full Stack Developer**
 
----
+Belgrade, Serbia &nbsp;·&nbsp; [vukasinriznic.vercel.app](https://vukasinriznic.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vukasinriznic/) &nbsp;·&nbsp; riznicvukasin@gmail.com
 
-## 🌟 Summary
-
-Full-Stack Developer with hands-on experience building web applications using **Laravel**, **React**, **Node.js** and **Webflow**. Skilled in both front-end and back-end development, with a strong focus on clean UI, role-based systems, and delivering functional, user-friendly solutions. Currently finishing my degree and open to junior opportunities.
+</div>
 
 ---
 
-## 🛠 Technical Skills
+## About
 
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Webflow
+Full-Stack Software Engineer building production-ready web applications across the entire stack — from database design and RESTful APIs to clean, performant frontends. Currently finishing a Bachelor's degree in Information Technology at the University of Belgrade, and simultaneously shipping my own product: a fitness web platform with AI-powered meal planning.
 
-**Backend:** PHP, Laravel, Node.js, Express.js, Python
-
-**Database:** MySQL (phpMyAdmin / XAMPP), PostgreSQL, Prisma ORM
-
-**Auth & Security:** JWT, bcrypt, Laravel Breeze
-
-**Other:** REST APIs, Git / GitHub, Blade Templates
-
-**Tools:** VS Code, Figma, npm, Composer, Postman
+Open to junior opportunities — remote or on-site.
 
 ---
 
-## 🚀 Projects
+## Tech Stack
 
-### 🍽️ [MealMuse](https://github.com/vukasinriznic/recipe-app) — Personal Meal Planning Companion
-*(React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Spoonacular API)*
-- Full-stack meal planning application with recipe search, favorites, weekly meal planner and auto-generated shopping lists.
-- Secure JWT authentication — each user has their own private data.
-- Recipe search powered by **Spoonacular API** with filters for cuisine and diet type.
-- Visual weekly calendar for planning Breakfast, Lunch and Dinner for each day.
-- Auto-generated shopping list with ingredient merging and quantity calculation.
-- Modern **Glassmorphism UI** built with React, TypeScript and Tailwind CSS.
+**Frontend**
 
-### 🔧 [TahoServis](https://github.com/vukasinriznic/tahoservis) — Tachograph Service Management App
-*(Laravel · PHP · MySQL · Blade)*
-- Full-stack role-based web application for managing tachograph servicing workflows.
-- Three user roles: **Client**, **Technician**, and **Admin** — each with a dedicated dashboard.
-- Features include appointment booking, real-time service status tracking, diagnostics logging, inventory management, and **automated PDF certificate generation**.
-- Built with Laravel Breeze for authentication and phpMyAdmin (XAMPP) for database management.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### ⛓️ [Provenance Blockchain](https://github.com/vukasinriznic/provenance-blockchain) — Landing Page
-*(Webflow)*
-- Single-page landing site for a blockchain platform with high-quality scroll-triggered animations.
-- Premium UI with smooth interactions and a modern Web3 aesthetic.
-- 🔗 [Live Site](https://provenance-blockchain-riki.webflow.io)
+**Backend**
 
-### 🎨 [TealFather](https://github.com/vukasinriznic/tealfather) — Landing Page
-*(Webflow)*
-- Clean, responsive one-page landing site with animated buttons and polished UI design.
-- 🔗 [Live Site](https://tealfather.webflow.io)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🌍 [NationalGeographic](https://github.com/vukasinriznic/nationalgeographic) — Magazine Website
-*(HTML · CSS · JavaScript)*
-- Pixel-perfect front-end clone of a professional magazine website built with pure HTML, CSS, and vanilla JavaScript.
-- Demonstrates advanced CSS Grid, Flexbox, and DOM manipulation without any frameworks.
+**Database & Auth**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-## 🎓 Education
+**Tools & Platforms**
 
-**Information Technology** / Računarski fakultet — 2022–2025 (Final Year)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌐 Languages
+## Projects
 
-- Serbian (Native)
-- English (Fluent)
+### [Portfolio](https://vukasinriznic.vercel.app) — Personal Portfolio Website
+*Next.js · TypeScript · Tailwind CSS · Framer Motion*
+- Fully custom portfolio with scroll animations, 3D tilt cards, and OLED dark theme
+- Smooth background transition on scroll, active nav tracking, Web3Forms contact
+- Live at [vukasinriznic.vercel.app](https://vukasinriznic.vercel.app)
+
+### [MealMuse](https://github.com/vukasinriznic/recipe-app) — Personal Meal Planning Companion
+*React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Spoonacular API*
+- Full-stack meal planning app with recipe search, favorites, weekly meal planner and auto-generated shopping lists
+- Secure JWT authentication — each user has their own private data
+- Recipe search powered by Spoonacular API with filters for cuisine and diet type
+- Visual weekly calendar for planning Breakfast, Lunch and Dinner per day
+- Modern Glassmorphism UI with React, TypeScript and Tailwind CSS
+
+### [TahoServis](https://github.com/vukasinriznic/tahoservis) — Tachograph Service Management App
+*Laravel · PHP · MySQL · Blade*
+- Role-based web app with three user roles: Client, Technician, and Admin — each with a dedicated dashboard
+- Features: appointment booking, service status tracking, diagnostics logging, inventory management, automated PDF certificate generation
+- Built with Laravel Breeze authentication
+
+### [Provenance Blockchain](https://github.com/vukasinriznic/provenance-blockchain) — Landing Page
+*Webflow*
+- Landing site for a blockchain platform with scroll-triggered animations and Web3 aesthetic
+- [Live Site](https://provenance-blockchain-riki.webflow.io)
+
+### [NationalGeographic](https://github.com/vukasinriznic/nationalgeographic) — Magazine Website
+*HTML · CSS · JavaScript*
+- Pixel-perfect front-end clone of a professional magazine website — pure HTML, CSS and vanilla JavaScript
+- Advanced CSS Grid, Flexbox, and DOM manipulation — no frameworks
 
 ---
 
-## 📌 Additional Information
+## Education
 
-- Open to junior on-site and remote opportunities
-- Enthusiastic about full-stack development, clean UI design, and building practical, real-world applications
+**B.Sc. Information Technology** — University of Belgrade, School of Computing &nbsp;·&nbsp; 2022 – 2025
 
-> *"I enjoy turning ideas into functional web applications - from database design to the final user interface."*
+---
+
+## Languages
+
+Serbian (Native) &nbsp;·&nbsp; English (Fluent)
