@@ -74,12 +74,12 @@ Open to junior opportunities — remote or on-site.
 ### ⛓️ [Provenance Blockchain](https://github.com/vukasinriznic/provenance-blockchain) — Landing Page
 *Webflow*
 - Landing site for a blockchain platform with scroll-triggered animations and Web3 aesthetic
-- [Live Site](https://provenance-blockchain-riki.webflow.io)
+- [🔗 Live Site](https://provenance-blockchain-riki.webflow.io)
 
 ### 🎨 [TealFather](https://github.com/vukasinriznic/tealfather) — Landing Page
 *Webflow*
 - Clean, responsive one-page landing site with animated buttons and polished UI design
-- [Live Site](https://tealfather.webflow.io)
+- [🔗 Live Site](https://tealfather.webflow.io)
 
 ### 🌍 [NationalGeographic](https://github.com/vukasinriznic/nationalgeographic) — Magazine Website
 *HTML · CSS · JavaScript*
