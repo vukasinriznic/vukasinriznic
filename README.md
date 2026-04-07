@@ -56,7 +56,7 @@ Open to junior opportunities — remote or on-site.
 
 ## Projects
 
-### [MealMuse](https://github.com/vukasinriznic/recipe-app) — Personal Meal Planning Companion
+### 🍽️ [MealMuse](https://github.com/vukasinriznic/recipe-app) — Personal Meal Planning Companion
 *React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Spoonacular API*
 - Full-stack meal planning app with recipe search, favorites, weekly meal planner and auto-generated shopping lists
 - Secure JWT authentication — each user has their own private data
@@ -64,23 +64,23 @@ Open to junior opportunities — remote or on-site.
 - Visual weekly calendar for planning Breakfast, Lunch and Dinner per day
 - Modern Glassmorphism UI with React, TypeScript and Tailwind CSS
 
-### [TahoServis](https://github.com/vukasinriznic/tahoservis) — Tachograph Service Management App
+### 🔧 [TahoServis](https://github.com/vukasinriznic/tahoservis) — Tachograph Service Management App
 *Laravel · PHP · MySQL · Blade*
 - Role-based web app with three user roles: Client, Technician, and Admin — each with a dedicated dashboard
 - Features: appointment booking, service status tracking, diagnostics logging, inventory management, automated PDF certificate generation
 - Built with Laravel Breeze authentication
 
-### [Provenance Blockchain](https://github.com/vukasinriznic/provenance-blockchain) — Landing Page
+### ⛓️ [Provenance Blockchain](https://github.com/vukasinriznic/provenance-blockchain) — Landing Page
 *Webflow*
 - Landing site for a blockchain platform with scroll-triggered animations and Web3 aesthetic
 - [Live Site](https://provenance-blockchain-riki.webflow.io)
 
-### [TealFather](https://github.com/vukasinriznic/tealfather) — Landing Page
+### 🎨 [TealFather](https://github.com/vukasinriznic/tealfather) — Landing Page
 *Webflow*
 - Clean, responsive one-page landing site with animated buttons and polished UI design
 - [Live Site](https://tealfather.webflow.io)
 
-### [NationalGeographic](https://github.com/vukasinriznic/nationalgeographic) — Magazine Website
+### 🌍 [NationalGeographic](https://github.com/vukasinriznic/nationalgeographic) — Magazine Website
 *HTML · CSS · JavaScript*
 - Pixel-perfect front-end clone of a professional magazine website — pure HTML, CSS and vanilla JavaScript
 - Advanced CSS Grid, Flexbox, and DOM manipulation — no frameworks
