@@ -57,12 +57,13 @@ Open to junior opportunities — remote or on-site.
 ## Projects
 
 ### 🍽️ [MealMuse](https://github.com/vukasinriznic/recipe-app) — Personal Meal Planning Companion
-*React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Spoonacular API* &nbsp;·&nbsp; [🔗 Live Site](https://mealmuserecipe.vercel.app/login)
+*React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Spoonacular API*
 - Full-stack meal planning app with recipe search, favorites, weekly meal planner and auto-generated shopping lists
 - Secure JWT authentication — each user has their own private data
 - Recipe search powered by Spoonacular API with filters for cuisine and diet type
 - Visual weekly calendar for planning Breakfast, Lunch and Dinner per day
 - Modern Glassmorphism UI with React, TypeScript and Tailwind CSS
+- [🔗 Live Site](https://mealmuserecipe.vercel.app/login)
 
 ### 🔧 [TahoServis](https://github.com/vukasinriznic/tahoservis) — Tachograph Service Management App
 *Laravel · PHP · MySQL · Blade*
