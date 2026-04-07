@@ -27,6 +27,7 @@ Open to junior opportunities — remote or on-site.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat&logo=webflow&logoColor=white)
 
 **Backend**
 
@@ -55,12 +56,6 @@ Open to junior opportunities — remote or on-site.
 
 ## Projects
 
-### [Portfolio](https://vukasinriznic.vercel.app) — Personal Portfolio Website
-*Next.js · TypeScript · Tailwind CSS · Framer Motion*
-- Fully custom portfolio with scroll animations, 3D tilt cards, and OLED dark theme
-- Smooth background transition on scroll, active nav tracking, Web3Forms contact
-- Live at [vukasinriznic.vercel.app](https://vukasinriznic.vercel.app)
-
 ### [MealMuse](https://github.com/vukasinriznic/recipe-app) — Personal Meal Planning Companion
 *React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Spoonacular API*
 - Full-stack meal planning app with recipe search, favorites, weekly meal planner and auto-generated shopping lists
@@ -80,6 +75,11 @@ Open to junior opportunities — remote or on-site.
 - Landing site for a blockchain platform with scroll-triggered animations and Web3 aesthetic
 - [Live Site](https://provenance-blockchain-riki.webflow.io)
 
+### [TealFather](https://github.com/vukasinriznic/tealfather) — Landing Page
+*Webflow*
+- Clean, responsive one-page landing site with animated buttons and polished UI design
+- [Live Site](https://tealfather.webflow.io)
+
 ### [NationalGeographic](https://github.com/vukasinriznic/nationalgeographic) — Magazine Website
 *HTML · CSS · JavaScript*
 - Pixel-perfect front-end clone of a professional magazine website — pure HTML, CSS and vanilla JavaScript
@@ -89,7 +89,7 @@ Open to junior opportunities — remote or on-site.
 
 ## Education
 
-**B.Sc. Information Technology** — University of Belgrade, School of Computing &nbsp;·&nbsp; 2022 – 2025
+**B.Sc. Information Technology** — University of Belgrade, School of Computing &nbsp;·&nbsp; 2023 – 2026
 
 ---
 
