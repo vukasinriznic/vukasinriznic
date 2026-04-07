@@ -4,7 +4,10 @@
 
 **Software Engineer · Full Stack Developer**
 
-Belgrade, Serbia &nbsp;·&nbsp; [vukasinriznic.vercel.app](https://vukasinriznic.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vukasinriznic/) &nbsp;·&nbsp; riznicvukasin@gmail.com
+[![Location](https://img.shields.io/badge/Belgrade,_Serbia-0d1117?style=flat&logo=googlemaps&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-f97316?style=flat&logo=vercel&logoColor=white)](https://vukasinriznic.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vukasinriznic/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:riznicvukasin@gmail.com)
 
 </div>
 
