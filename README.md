@@ -70,11 +70,12 @@ Open to junior opportunities — remote or on-site.
 - Role-based web app with three user roles: Client, Technician, and Admin — each with a dedicated dashboard
 - Features: appointment booking, service status tracking, diagnostics logging, inventory management, automated PDF certificate generation
 - Built with Laravel Breeze authentication
+- [🔗 Live Site](https://mealmuserecipe.vercel.app/login)
 
 ### ⛓️ [Provenance Blockchain](https://github.com/vukasinriznic/provenance-blockchain) — Landing Page
 *Webflow*
 - Landing site for a blockchain platform with scroll-triggered animations and Web3 aesthetic
-- [🔗 Live Site](https://provenance-blockchain-riki.webflow.io)
+- [🔗 Live Site](https://provenance-blockchain-vukasinriznic.webflow.io)
 
 ### 🎨 [TealFather](https://github.com/vukasinriznic/tealfather) — Landing Page
 *Webflow*
