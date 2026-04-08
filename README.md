@@ -85,6 +85,7 @@ Open to junior opportunities — remote or on-site.
 *HTML · CSS · JavaScript*
 - Pixel-perfect front-end clone of a professional magazine website — pure HTML, CSS and vanilla JavaScript
 - Advanced CSS Grid, Flexbox, and DOM manipulation — no frameworks
+- [🔗 Live Site](https://nationalgeographicvr.vercel.app/)
 
 ---
 
