@@ -70,7 +70,7 @@ Open to junior opportunities — remote or on-site.
 - Role-based web app with three user roles: Client, Technician, and Admin — each with a dedicated dashboard
 - Features: appointment booking, service status tracking, diagnostics logging, inventory management, automated PDF certificate generation
 - Built with Laravel Breeze authentication
-- [🔗 Live Site](https://mealmuserecipe.vercel.app/login)
+- [🔗 Live Site](https://tahoservice-production.up.railway.app/login)
 
 ### ⛓️ [Provenance Blockchain](https://github.com/vukasinriznic/provenance-blockchain) — Landing Page
 *Webflow*
