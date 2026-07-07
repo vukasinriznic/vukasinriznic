@@ -56,6 +56,14 @@ Open to junior opportunities — remote or on-site.
 
 ## Projects
 
+### ⚓ [Ancora](https://github.com/vukasinriznic/ancora) — AI Relationship Advisor
+*React · TypeScript · Vite · Tailwind CSS · FastAPI · Python · PostgreSQL · Google Gemini · JWT*
+- Full-stack AI advisor that gives wise, dignified relationship guidance — describe a situation and think it through with honesty and compassion
+- Real-time streaming chat powered by Google Gemini, with AI-generated conversation titles and graceful rate-limit handling
+- Secure JWT authentication with email verification and password reset via SMTP email links
+- Editable profile that personalizes the AI's advice, plus GDPR-compliant account deletion
+- Bilingual UI (English / Serbian) with a polished, animated design and reduced-motion accessibility support
+
 ### 🍽️ [MealMuse](https://github.com/vukasinriznic/recipe-app) — Personal Meal Planning Companion
 *React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Spoonacular API*
 - Full-stack meal planning app with recipe search, favorites, weekly meal planner and auto-generated shopping lists
