@@ -63,11 +63,5 @@ Full-stack developer from Belgrade who builds clean, production-ready web apps. 
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=vukasinriznic&layout=compact&theme=tokyonight&title_color=10b981&icon_color=10b981&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vukasinriznic&bg_color=00000000&color=10b981&line=10b981&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/vukasinriznic">vukasinriznic</a></i></p>
