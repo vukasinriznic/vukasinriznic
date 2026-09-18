@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Full-stack developer from Belgrade who builds clean, production-ready web apps. Currently focused on AI-powered products. Studying IT at RAF — open to junior and remote roles.
+Full-stack developer from Belgrade who builds clean, production-ready web apps. Currently focused on AI-powered products. Studying IT at RAF - open to junior and remote roles.
 
 🔭 &nbsp;I'm currently working on **an AI fitness platform — Next.js, Claude API &amp; Stripe**  
 🌱 &nbsp;I'm currently learning **system design and clean backend architecture**  
