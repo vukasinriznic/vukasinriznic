@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Full-stack developer from Belgrade who builds and ships production-ready web apps end-to-end. Founder of a web development studio and a live e-commerce product with real customers. Studying IT at RAF - open to junior and remote roles.
+Full-stack developer from Belgrade who builds and ships production-ready web apps end-to-end. Founder of a web development studio and a live e-commerce product with real customers. Studying IT at RAF - open to opportunities and remote roles.
 
 🔭 &nbsp;I'm currently building **[DajPeticu](https://www.dajpeticu.shop) — a live NFC "Google review" e-commerce product (100+ customers)**  
 🌐 &nbsp;I run **[Afera Digital](https://www.aferadigital.rs) — my web development studio (5+ client sites delivered)**  
