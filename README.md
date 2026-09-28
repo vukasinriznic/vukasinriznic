@@ -5,14 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=700&height=44&lines=Full-Stack%20Developer;Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Open%20to%20work" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=700&height=44&lines=Full-Stack%20Developer;Founder%20%40%20Afera%20Digital%20%C2%B7%20Building%20DajPeticu;Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Open%20to%20work" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Full-stack developer from Belgrade who builds clean, production-ready web apps. Currently focused on AI-powered products. Studying IT at RAF - open to junior and remote roles.
+Full-stack developer from Belgrade who builds and ships production-ready web apps end-to-end. Founder of a web development studio and a live e-commerce product with real customers. Studying IT at RAF - open to junior and remote roles.
 
-🔭 &nbsp;I'm currently working on **an AI fitness platform — Next.js, Claude API &amp; Stripe**  
+🔭 &nbsp;I'm currently building **[DajPeticu](https://www.dajpeticu.shop) — a live NFC "Google review" e-commerce product (100+ customers)**  
+🌐 &nbsp;I run **[Afera Digital](https://www.aferadigital.rs) — my web development studio (5+ client sites delivered)**  
 🌱 &nbsp;I'm currently learning **system design and clean backend architecture**  
 👯 &nbsp;I'm looking to collaborate on **full-stack web apps and AI integrations**  
 💬 &nbsp;Ask me about **React, Next.js, TypeScript &amp; Python**  
@@ -33,6 +34,7 @@ Full-stack developer from Belgrade who builds clean, production-ready web apps. 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -50,8 +52,8 @@ Full-stack developer from Belgrade who builds clean, production-ready web apps. 
 
 <p align="left">
   <a href="https://www.vukasinriznic.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/vukasinriznic/cv/blob/main/Vukasin_Riznic_CV.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-10b981?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/vukasinriznic/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://vukasinriznic.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="mailto:riznicvukasin@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/vukasinrizniic" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
