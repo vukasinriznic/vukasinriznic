@@ -17,7 +17,7 @@ Full-stack developer from Belgrade who builds and ships production-ready web app
 🌱 &nbsp;I'm currently learning **system design and clean backend architecture**  
 👯 &nbsp;I'm looking to collaborate on **full-stack web apps and AI integrations**  
 💬 &nbsp;Ask me about **React, Next.js, TypeScript &amp; Python**  
-⚡ &nbsp;Fun fact: **I turn gym routines into code — building the fitness app I always wanted**
+⚡ &nbsp;Fun fact: **I turn gym routines into code - building the fitness app I always wanted**
 
 ### 🛠️ Tech Stack
 
