@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=700&height=44&lines=Full-Stack%20Developer;Founder%20%40%20Afera%20Digital%20%C2%B7%20Building%20DajPeticu;Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Open%20to%20work" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=700&height=44&lines=Full-Stack%20Developer;Founder%20%40%20Afera%20Digital%20%C2%B7%20Co-Founder%20DajPeticu;Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Open%20to%20work" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
