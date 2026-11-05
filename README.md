@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=700&height=44&lines=Full-Stack%20Developer;Founder%20%40%20Afera%20Digital%20%C2%B7%20Co-
-Founder%20%40%20DajPeticu;Backend%20with%20Python%20%26%20Java%20%C2%B7%20Open%20to%20work" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=700&height=44&lines=Full-Stack%20Developer;Founder%20%40%20Afera%20Digital%20%C2%B7%20Co-Founder%20%40%20DajPeticu;Backend%20with%20Python%20%26%20Java%20%C2%B7%20Open%20to%20work" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -17,7 +16,7 @@ Full-stack developer from Belgrade who builds and ships production-ready web app
 🌐 &nbsp;I run **[Afera Digital](https://www.aferadigital.rs) - my web development studio (5+ client sites delivered)**  
 🌱 &nbsp;I'm currently learning **system design and clean backend architecture**  
 👯 &nbsp;I'm looking to collaborate on **full-stack web apps and AI integrations**  
-💬 💬 &nbsp;Ask me about **React, Next.js, TypeScript, Python &amp; Java**  
+💬 &nbsp;Ask me about **React, Next.js, TypeScript, Python &amp; Java**  
 ⚡ &nbsp;Fun fact: **I turn gym routines into code - building the fitness app I always wanted**
 
 ### 🛠️ Tech Stack
