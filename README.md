@@ -5,26 +5,28 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=700&height=44&lines=Full-Stack%20Developer;Founder%20%40%20Afera%20Digital%20%C2%B7%20Co-Founder%20%40%20DajPeticu;Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20Open%20to%20work" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=700&height=44&lines=Full-Stack%20Developer;Founder%20%40%20Afera%20Digital%20%C2%B7%20Co-
+Founder%20%40%20DajPeticu;Backend%20with%20Python%20%26%20Java%20%C2%B7%20Open%20to%20work" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Full-stack developer from Belgrade who builds and ships production-ready web apps end-to-end. Founder of a web development studio and a live e-commerce product with real customers. Studying IT at RAF - open to opportunities and remote roles.
+Full-stack developer from Belgrade who builds and ships production-ready web apps end-to-end. Founder of a web development studio and a live e-commerce product with real customers. IT graduate (Računarski fakultet, Belgrade) - open to opportunities and remote roles.
 
 🚀 &nbsp;**[DajPeticu](https://www.dajpeticu.shop)** is live **- my NFC "Google review" e-commerce product, already serving 100+ customers**   
 🌐 &nbsp;I run **[Afera Digital](https://www.aferadigital.rs) - my web development studio (5+ client sites delivered)**  
 🌱 &nbsp;I'm currently learning **system design and clean backend architecture**  
 👯 &nbsp;I'm looking to collaborate on **full-stack web apps and AI integrations**  
-💬 &nbsp;Ask me about **React, Next.js, TypeScript &amp; Python**  
+💬 💬 &nbsp;Ask me about **React, Next.js, TypeScript, Python &amp; Java**  
 ⚡ &nbsp;Fun fact: **I turn gym routines into code - building the fitness app I always wanted**
 
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
