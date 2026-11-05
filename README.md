@@ -16,7 +16,7 @@ Full-stack developer from Belgrade who builds and ships production-ready web app
 🌐 &nbsp;I run **[Afera Digital](https://www.aferadigital.rs) - my web development studio (5+ client sites delivered)**  
 🌱 &nbsp;I'm currently learning **system design and clean backend architecture**  
 👯 &nbsp;I'm looking to collaborate on **full-stack web apps and AI integrations**  
-💬 &nbsp;Ask me about **React, Next.js, TypeScript, Python &amp; Java**  
+💬 &nbsp;Ask me about **Python, Java, JavaReact, Next.js &amp; TypeScript**  
 ⚡ &nbsp;Fun fact: **I turn gym routines into code - building the fitness app I always wanted**
 
 ### 🛠️ Tech Stack
